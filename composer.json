@@ -1,0 +1,15 @@
+{
+    "name": "submtd/summarizable",
+    "description": "Adds Summarizable trait to Laravel models",
+    "authors": [
+        {
+            "name": "Steve Harmeyer",
+            "email": "harmeyersteve@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Submtd\\Summarizable\\": "src/"
+        }
+    }
+}
